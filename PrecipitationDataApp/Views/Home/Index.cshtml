@@ -1,0 +1,46 @@
+﻿@model PrecipitationDataApp.Models.Home.HomeViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("FileUpload", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+{
+    <div class="row panelFileUpload">
+        <div class="panel panel-default">
+            <div class="panel-body panelFileUploadBody">
+                <div class="col-lg-12 row row-buffer">
+                    <div class="col-lg-offset-3 col-lg-5">
+                        <div class="input-group">                           
+                            @Html.TextBoxFor(m => m.UploadedFile, new { type = "text", placeholder = "Select .pre file...", @class = "form-control", @id = "fileUploadNameTxt", @readonly = "readonly" })
+                            <span class="input-group-btn">
+                                <button class="btn btn-warning" type="button" id="fileUploadBtn">Upload file</button>
+                                <input type="file" class="hidden" id="fileUploader">
+                            </span>
+                        </div>                                              
+                    </div>
+                </div>
+
+                <div class="row col-lg-12">
+                    <div id="messagePanel" class="panel panel-primary messagePanel hidden">
+                        <div class="panel-body">
+                            <span>Putting data in the database, this might take a while, please wait... </span><img src="~/Images/loadinfo.net2.gif" />
+                        </div>
+
+                    </div>
+                    <div id="messageSuccessPanel" class="panel panel-success messageSuccessPanel hidden">
+                        <div class="panel-body">
+                            <span>Database updated successfully!  Database </span><span id="messageSuccessDatabaseName"></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+}

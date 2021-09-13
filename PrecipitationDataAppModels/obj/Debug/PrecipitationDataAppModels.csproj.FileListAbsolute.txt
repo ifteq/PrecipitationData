@@ -1,0 +1,10 @@
+C:\Dev\demos\JBAcodeChallenge\JBAChallenge\PrecipitationDataApp\PrecipitationDataAppModels\bin\Debug\PrecipitationDataAppModels.dll
+C:\Dev\demos\JBAcodeChallenge\JBAChallenge\PrecipitationDataApp\PrecipitationDataAppModels\bin\Debug\PrecipitationDataAppModels.pdb
+C:\Dev\demos\JBAcodeChallenge\JBAChallenge\PrecipitationDataApp\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.csproj.CoreCompileInputs.cache
+C:\Dev\demos\JBAcodeChallenge\JBAChallenge\PrecipitationDataApp\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.dll
+C:\Dev\demos\JBAcodeChallenge\JBAChallenge\PrecipitationDataApp\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.pdb
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDataAppModels\bin\Debug\PrecipitationDataAppModels.dll
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDataAppModels\bin\Debug\PrecipitationDataAppModels.pdb
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.csproj.CoreCompileInputs.cache
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.dll
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDataAppModels\obj\Debug\PrecipitationDataAppModels.pdb

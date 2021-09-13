@@ -1,0 +1,6 @@
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\bin\Debug\PrecipitationDb.dacpac
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\bin\Debug\PrecipitationDb.dll
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\bin\Debug\PrecipitationDb.pdb
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\obj\Debug\PrecipitationDb.sqlprojAssemblyReference.cache
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\obj\Debug\PrecipitationDb.dll
+C:\Users\Ifteq\source\repos\ifteq\PrecipitationData\PrecipitationDb\obj\Debug\PrecipitationDb.pdb
